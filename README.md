@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-I am currently working on Typescript, React, NodeJS, Go, Kotlin, and Java<br>I am looking to collaborate on Web3, AI, and Blockchain<br>I am looking for help with AI<br>I am currently learning <br>Ask me about System design, DDD, TDD, architecture
+I am currently working on Typescript, React, NodeJS, Go, Kotlin, and Java<br>I am looking to collaborate on Web3, AI, and Blockchain<br>I am currently learning <br>Ask me about System design, DDD, TDD, architecture
 
 
 ## 🌐 Socials:
